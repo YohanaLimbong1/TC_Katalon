@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Twitty</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Media Social Apps</description>
+      <initValue>'http://sauron.dev.commsult.id/'</initValue>
+      <name>Twitty</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
